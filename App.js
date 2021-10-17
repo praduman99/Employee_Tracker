@@ -6,7 +6,7 @@ const App = () => {
   const [txt , setTxt] = useState("")
   return (
     <View>
-      <App_Prompt />
+
     </View>
   )
 }
